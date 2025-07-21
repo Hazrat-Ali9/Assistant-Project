@@ -1,0 +1,15 @@
+.modal_css {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(var(--nf, var(--n)) / var(--tw-bg-opacity));
+    --tw-bg-opacity: 0.4;
+    transition-duration: 200ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    overscroll-behavior: contain;
+  }

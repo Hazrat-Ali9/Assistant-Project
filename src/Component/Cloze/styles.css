@@ -1,0 +1,5 @@
+.ProseMirror {
+    height: 100%;
+    overflow-y: auto;
+    padding: 8px 15px;
+}
