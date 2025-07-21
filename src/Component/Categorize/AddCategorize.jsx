@@ -1,7 +1,7 @@
 import { DragIndicator } from "@mui/icons-material";
 import { useContext, useEffect } from "react";
 import { GlobalContext } from "../../Hooks/GlobalContext";
-
+// add categorize
 const AddCategorize = ({ setCategorizeAnswer }) => {
 
 
